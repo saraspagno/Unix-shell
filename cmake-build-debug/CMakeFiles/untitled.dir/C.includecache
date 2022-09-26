@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/saraspagnoletto/Desktop/HELP Vecchi/21 B/MARACHOT/HM/Ex1/untitled/shell.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+ctype.h
+-
+
